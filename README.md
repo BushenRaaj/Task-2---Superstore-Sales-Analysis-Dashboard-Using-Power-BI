@@ -95,7 +95,7 @@ Total Profit = SUM(Orders[Profit])
 
 Example:
 ```markdown
-![Dashboard Preview](images/dashboard_overview.png)
+![Dashboard Preview](Final Dashboard Preview.png)
 ```
 
 ---
