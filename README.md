@@ -9,9 +9,9 @@ The dashboard provides insights into **overall sales performance, product sub-ca
 
 ## 📂 Files in this Repository
 - `SuperStore Sales Analysis.pbix` → Power BI dashboard file  
-- `data/` → Dataset used (`superstore.csv` or `.xlsx`)  
-- `images/` → Screenshots of dashboard (for quick viewing)  
-- `README.md` → Project documentation (this file)  
+- `data/superstore.xls` → Dataset used  
+- `images/Final Dashboard Preview.png` → Screenshot of dashboard  
+- `README.md` → Project documentation (this file)
 
 ---
 
