@@ -7,11 +7,12 @@ The dashboard provides insights into **overall sales performance, product sub-ca
 
 ---
 
-## 📂 Files in this Repository
-- `SuperStore Sales Analysis.pbix` → Power BI dashboard file  
-- `data/superstore.xls` → Dataset used  
-- `images/Final Dashboard Preview.png` → Screenshot of dashboard  
-- `README.md` → Project documentation (this file)
+## 📂 Repository Structure
+
+- [SuperStore Sales Analysis.pbix](SuperStore%20Sales%20Analysis.pbix) → Power BI dashboard file  
+- [data/superstore.xls](data/superstore.xls) → Raw dataset  
+- [images/Final Dashboard Preview.png](images/Final%20Dashboard%20Preview.png) → Dashboard screenshot  
+- [README.md](README.md) → Documentation  
 
 ---
 
@@ -91,12 +92,8 @@ Total Profit = SUM(Orders[Profit])
 ---
 
 ## 📊 Final Dashboard Preview
-(Add screenshots of your dashboard in the `images/` folder and reference them here with Markdown image links.)
 
-Example:
-```markdown
-![Dashboard Preview](Final Dashboard Preview.png)
-```
+- [images/Final Dashboard Preview.png](images/Final%20Dashboard%20Preview.png)
 
 ---
 
