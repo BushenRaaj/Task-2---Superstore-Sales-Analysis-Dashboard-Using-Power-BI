@@ -104,6 +104,8 @@ Total Profit = SUM(Orders[Profit])
 - Applying **filters and slicers** for interactive storytelling.  
 - Turning raw sales data into **business insights**.  
 
+---
+
 ## ❓ Interview Questions Related to This Task
 
 ### 1. What is the importance of data visualization?
