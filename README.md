@@ -93,7 +93,8 @@ Total Profit = SUM(Orders[Profit])
 
 ## 📊 Final Dashboard Preview
 
-- [images/Final Dashboard Preview.png](images/Final%20Dashboard%20Preview.png)
+<img width="1920" height="1080" alt="Superstore Sales Analysis – Power BI Dashboard" src="https://github.com/user-attachments/assets/efc55f61-f086-4587-ae97-b252d95fec42" />
+
 
 ---
 
